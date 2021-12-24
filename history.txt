@@ -1,0 +1,1 @@
+Size of /root/.bash_history = 500.
